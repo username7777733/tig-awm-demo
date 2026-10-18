@@ -1,0 +1,32 @@
+{
+  "checked": "2026-10-18",
+  "business": "Tig_AWM",
+  "maps": "https://yandex.ru/maps/org/110270842361/",
+  "rating": 5.0,
+  "ratingCount": 99,
+  "address": "Люберцы, ул. 8 Марта, 54, гараж 40",
+  "phone": "+79250868786",
+  "telegram": "https://t.me/Tig_AWM",
+  "assets": [
+    {
+      "file": "map-2.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/217470/2a00000187e5c80f3779cad6ed14fdb3a3f5/XXXL",
+      "page": "https://yandex.ru/maps/org/110270842361/photos/"
+    },
+    {
+      "file": "map-3.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/9717139/2a000001891bafe1d4ba8d2582e65b83dc70/XXXL",
+      "page": "https://yandex.ru/maps/org/110270842361/photos/"
+    },
+    {
+      "file": "map-4.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/217470/2a00000187e5c80f52822bd8e96738f6e4b5/XXXL",
+      "page": "https://yandex.ru/maps/org/110270842361/photos/"
+    },
+    {
+      "file": "work-19.webp",
+      "page": "https://t.me/Tig_AWM/228",
+      "note": "Кадр публичного видео: реставрация диска"
+    }
+  ]
+}
